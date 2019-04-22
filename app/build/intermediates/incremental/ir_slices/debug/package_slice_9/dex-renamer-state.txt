@@ -1,0 +1,4 @@
+#Fri Apr 19 21:09:58 BRT 2019
+base.0=/home/elias/workspace/AndroidStudioProjects/ImagensUpload/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
